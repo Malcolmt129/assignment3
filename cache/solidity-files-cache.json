@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/mnt/c/Users/malco/OneDrive/Desktop/Cryptocurrency and Blockchain/assignment3/contracts/careerfair.sol": {
+      "lastModificationDate": 1668011465474,
+      "contentHash": "f26534f650848ad4d2983946555f7c84",
+      "sourceName": "contracts/careerfair.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.14"
+      ],
+      "artifacts": [
+        "careerfair"
+      ]
+    },
+    "/home/mac129/assignment3/contracts/careerfair.sol": {
+      "lastModificationDate": 1668116080241,
+      "contentHash": "f7048c1740d735d49283b8209983d6b7",
+      "sourceName": "contracts/careerfair.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.14"
+      ],
+      "artifacts": [
+        "careerfair"
+      ]
+    }
+  }
+}
